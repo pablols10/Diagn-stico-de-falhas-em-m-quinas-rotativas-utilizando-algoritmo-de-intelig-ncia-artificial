@@ -5,3 +5,4 @@ Este arquivo contém o código utilizado no trablaho dividido em:
   1. Extração das característica onde é feito o processamento do sinal e criação do banco de dados com características do sinal;
   2. Análise preliminar dos dados a partir de boxplot
   3. Criação do modelo de predição.
+  4. dados_modf3-4000-janela.csv é o banco de dados gerado após a extração das características do arquivo mencionado no tópico 1.
